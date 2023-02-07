@@ -1,0 +1,33 @@
+.box{
+	background-color: white;
+width: 900px ;
+	height:6000px;
+	margin: 20px auto;
+	border:100px;
+	background-color:rgba( 250,250,250,0,6);
+	font-size: 20px;
+	color:hotpink;
+border:dotted pink;
+
+}
+h3{
+	color: red;
+ padding-right: 400;
+padding-left: 50;
+font-size: 30;
+color: black;
+	
+}
+h1{
+	padding-left: 50;
+	
+}
+h2{
+	padding-left: 50;
+    color: skyblue;
+}
+body{
+	background-image:url(img8.jpg) ;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
